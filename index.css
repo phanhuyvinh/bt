@@ -18,10 +18,10 @@ header {
     height: 25vh;
     object-fit: cover;  
 }
-body {
+/* body {
   margin: 0;
   font-family: Arial, sans-serif;
-}
+} */
 
 /* Thanh nhận khuyến mãi */
 .newsletter {
@@ -93,3 +93,4 @@ body {
   white-space: nowrap;
 } */
 /*Phan khuyen mại để ngoài footer nên nếu nối thêm phần này vào */
+
